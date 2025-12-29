@@ -23,6 +23,7 @@ This is my personal portfolio website built using **HTML**, **CSS** and **JAVASC
 .
 ├── index.html
 ├── style.css
+├── script.js
 └── assets
 ```
 
