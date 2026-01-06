@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-This is my personal portfolio website built using **HTML** and **CSS** only. The goal of this project is to showcase my skills, projects, and background in a clean and minimal design.
+This is my personal portfolio website built using **HTML**, **CSS** and **JAVASCRIPT** only. The goal of this project is to showcase my skills, projects, and background in a clean and minimal design.
 
 ## 🚀 Features
 
@@ -15,6 +15,7 @@ This is my personal portfolio website built using **HTML** and **CSS** only. The
 
 * **HTML5**
 * **CSS3**
+* **JAVASCRIPT**
 
 ## 📂 Folder Structure
 
@@ -22,23 +23,24 @@ This is my personal portfolio website built using **HTML** and **CSS** only. The
 .
 ├── index.html
 ├── style.css
+├── script.js
 └── assets
 ```
 
 ## 📸 Preview
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6091874d-5590-49c3-860a-ba8bae7ec790" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/29854655-25d1-4f06-b0b5-fc3effe6afc4" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c1f35305-33a8-4d4b-b0ee-1c9bdedf8759" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a44c205d-5dad-4006-8df1-f1f82202b833" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8701cb2a-7a68-4a27-929a-7191af88462a" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7e407e49-1666-41f6-b0fd-2e8fa952fd9f" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b5038170-e4fc-45b4-9da1-a3331f2caddd" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fec6e4e0-5fc4-46da-bf9d-a579fc13f97f" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/04c9aa58-16ce-430f-a63b-6a1abc1e6d0e" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7d202d30-8c8f-4901-94ee-10dda03ee1ad" />
+
 
 
 ## 🌐 Live Demo
 
 You can view the live version of the portfolio here:
-[Live Demo Link](https://drian-gamma.vercel.app/) *(replace with your GitHub Pages or hosting link)*
-Note: Not mobile responsive yet
+[Live Demo](https://drian-gamma.vercel.app/)
 ## 📬 Contact
 
 If you want to connect, feel free to reach out:
