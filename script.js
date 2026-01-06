@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   // ===== Smooth Scroll =====
-  const navLinks = document.querySelectorAll('.navdiv ul li a');
+  const navLinks = document.querySelectorAll('.navdiv ul li a[href^="#contact"]');
   navLinks.forEach(link => {
     link.addEventListener('click', function(e) {
       e.preventDefault();
@@ -23,10 +23,10 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   // ===== Continuous Typewriter Effect =====
-  const words = ["Junior Web Developer", "Frontend Enthusiast", "Creative Coder"];
+  const words = ["Programmer.", "Designer.", "Gamer."];
   let i = 0, j = 0;
   let isDeleting = false;
-  const speed = 150, delay = 1000;
+  const speed = 120, delay = 2000;
   const h2 = document.querySelector('#home h2');
 
   function typeWriter() {
